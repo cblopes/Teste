@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6ECA8F-CAC7-4954-BC8F-335D7D8ADA43}|src\\Teste.API\\Teste.Data\\Teste.Data.csproj|c:\\users\\christhian\\documents\\projects\\teste\\src\\teste.api\\teste.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6ECA8F-CAC7-4954-BC8F-335D7D8ADA43}|src\\Teste.API\\Teste.Data\\Teste.Data.csproj|solutionrelative:src\\teste.api\\teste.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD95EA-16B0-45CC-888F-2DC58A3C3767}|src\\Teste.API\\Teste.CrossCutting\\Teste.CrossCutting.csproj|c:\\users\\christhian\\documents\\projects\\teste\\src\\teste.api\\teste.crosscutting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD95EA-16B0-45CC-888F-2DC58A3C3767}|src\\Teste.API\\Teste.CrossCutting\\Teste.CrossCutting.csproj|solutionrelative:src\\teste.api\\teste.crosscutting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD7608B-FA81-4DFA-8474-43AB3A5C712C}|src\\Teste.API\\Teste.Service\\Teste.Service.csproj|c:\\users\\christhian\\documents\\projects\\teste\\src\\teste.api\\teste.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD7608B-FA81-4DFA-8474-43AB3A5C712C}|src\\Teste.API\\Teste.Service\\Teste.Service.csproj|solutionrelative:src\\teste.api\\teste.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A044B7D0-3338-4CE2-97FD-51EC5ECBAC25}|src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj|c:\\users\\christhian\\documents\\projects\\teste\\src\\teste.api\\teste.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A044B7D0-3338-4CE2-97FD-51EC5ECBAC25}|src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj|solutionrelative:src\\teste.api\\teste.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Teste.API\\Teste.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Data\\Class1.cs",
+              "RelativeToolTip": "src\\Teste.API\\Teste.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:15:11.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.CrossCutting\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Teste.API\\Teste.CrossCutting\\Class1.cs",
+              "ToolTip": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.CrossCutting\\Class1.cs",
+              "RelativeToolTip": "src\\Teste.API\\Teste.CrossCutting\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:14:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Teste.API\\Teste.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Service\\Class1.cs",
+              "RelativeToolTip": "src\\Teste.API\\Teste.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:13:10.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Teste.API\\Teste.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\Teste.API\\Teste.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:12:23.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
