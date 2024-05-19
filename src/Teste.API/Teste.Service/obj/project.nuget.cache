@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JrpFAK88Ztk6E6+5YcYOwEbuUNDgDoG4AVaFnwjc07Tl+YVWU9buiuGjLUj/Z65AY5C96ZSBjdjXOugzooB02Q==",
+  "dgSpecHash": "vz0tTJKGtVwGiSqbZ134CvViLK+zf3IL5s8bdl/TDEOL3IKGWP85B/xFDGgYT6fpzDKbIs2U4utELYn8EA4ORQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Service\\Teste.Service.csproj",
+  "projectFilePath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Service\\Teste.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

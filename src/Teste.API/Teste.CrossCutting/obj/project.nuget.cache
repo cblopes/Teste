@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wwp+mEWzV+uc9QUNY0HI6v8Hz6+x8zCx+zDI4oY6OxgbJqRW1dpuzPEwH/VAMpSypheY1zz+W8ykRmOVitWuOw==",
+  "dgSpecHash": "OLCh8+8CLcZB2QXeHx/oittBkb3vLjfXemrxRGdEYCCcJpBfJUwlDxm3W5soi1HXKYN5WtHgItPX69sL8mtbrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.CrossCutting\\Teste.CrossCutting.csproj",
+  "projectFilePath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.CrossCutting\\Teste.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,12 @@
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\bin\Debug\net8.0\Teste.CrossCutting.deps.json
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\bin\Debug\net8.0\Teste.CrossCutting.dll
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\bin\Debug\net8.0\Teste.CrossCutting.pdb
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.AssemblyInfoInputs.cache
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.AssemblyInfo.cs
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.sourcelink.json
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.dll
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\refint\Teste.CrossCutting.dll
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\Teste.CrossCutting.pdb
+C:\Dev\Teste\src\Teste.API\Teste.CrossCutting\obj\Debug\net8.0\ref\Teste.CrossCutting.dll

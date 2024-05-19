@@ -10,3 +10,15 @@ C:\Users\christhian\Documents\Projects\Teste\src\Teste.API\Teste.Domain\obj\Debu
 C:\Users\christhian\Documents\Projects\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\refint\Teste.Domain.dll
 C:\Users\christhian\Documents\Projects\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.pdb
 C:\Users\christhian\Documents\Projects\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\ref\Teste.Domain.dll
+C:\Dev\Teste\src\Teste.API\Teste.Domain\bin\Debug\net8.0\Teste.Domain.deps.json
+C:\Dev\Teste\src\Teste.API\Teste.Domain\bin\Debug\net8.0\Teste.Domain.dll
+C:\Dev\Teste\src\Teste.API\Teste.Domain\bin\Debug\net8.0\Teste.Domain.pdb
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.AssemblyInfoInputs.cache
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.AssemblyInfo.cs
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.sourcelink.json
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.dll
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\refint\Teste.Domain.dll
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\Teste.Domain.pdb
+C:\Dev\Teste\src\Teste.API\Teste.Domain\obj\Debug\net8.0\ref\Teste.Domain.dll

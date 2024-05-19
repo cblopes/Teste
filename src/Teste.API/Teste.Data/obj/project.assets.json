@@ -4296,19 +4296,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\christhian\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Data\\Teste.Data.csproj",
+      "projectUniqueName": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Data\\Teste.Data.csproj",
       "projectName": "Teste.Data",
-      "projectPath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Data\\Teste.Data.csproj",
-      "packagesPath": "C:\\Users\\christhian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Data\\obj\\",
+      "projectPath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Data\\Teste.Data.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\christhian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4322,8 +4322,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj": {
-              "projectPath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj"
+            "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj": {
+              "projectPath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj"
             }
           }
         }
@@ -4380,7 +4380,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

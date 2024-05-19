@@ -1,0 +1,12 @@
+C:\Dev\Teste\src\Teste.API\Teste.Service\bin\Debug\net8.0\Teste.Service.deps.json
+C:\Dev\Teste\src\Teste.API\Teste.Service\bin\Debug\net8.0\Teste.Service.dll
+C:\Dev\Teste\src\Teste.API\Teste.Service\bin\Debug\net8.0\Teste.Service.pdb
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.AssemblyInfoInputs.cache
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.AssemblyInfo.cs
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.csproj.CoreCompileInputs.cache
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.sourcelink.json
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.dll
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\refint\Teste.Service.dll
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\Teste.Service.pdb
+C:\Dev\Teste\src\Teste.API\Teste.Service\obj\Debug\net8.0\ref\Teste.Service.dll

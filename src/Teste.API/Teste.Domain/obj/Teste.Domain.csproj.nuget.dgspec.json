@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj": {}
+    "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj": {
+    "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj",
         "projectName": "Teste.Domain",
-        "projectPath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj",
-        "packagesPath": "C:\\Users\\christhian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\christhian\\Documents\\Projects\\Teste\\src\\Teste.API\\Teste.Domain\\obj\\",
+        "projectPath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\Teste.Domain.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\Teste\\src\\Teste.API\\Teste.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\christhian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
